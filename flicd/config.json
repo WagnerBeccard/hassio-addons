@@ -1,8 +1,8 @@
 {
-  "image": "pschmitt/hassio-addon-{arch}-flicd",
   "name": "flicd",
-  "version": "1.2",
+  "version": "0.1",
   "slug": "flicd",
+  "ingress": false
   "description": "React to flic button presses",
   "startup": "services",
   "boot": "auto",
