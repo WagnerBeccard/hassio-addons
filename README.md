@@ -6,7 +6,7 @@ https://github.com/pschmitt/hassio-addons
 
 ## flicd
 
-React to flic button presses on the Raspberry Pi.
+React to flic button presses on the host machine.
 
 ### Installation
 
